@@ -37,18 +37,17 @@ Where should marketing continue to invest (time or money)? Cut investment? Why?
 
 #### End goal:
 
-*Add an image of the final visualization here.*
-
+![image](https://user-images.githubusercontent.com/122172327/211172162-a259ba36-22cb-4b76-9ce0-9cc6ee5d3112.png)
 ## 2nd VM Exercise
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [X] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
+- [X] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [X] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
 
 #### Learning Objective
 
@@ -71,6 +70,4 @@ Where should marketing continue to invest (time or money)? Cut investment? Why?
 *This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
 
 #### End goal:
-![image](https://user-images.githubusercontent.com/122172327/211172143-9accdb37-0c1b-4be2-811d-dd862f5e9607.png)
-
 
