@@ -9,32 +9,31 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [X] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
+- [X] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [X] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Calculate and analyze LTV to understand how marketing investment should change to maximize LTV
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+LTV is half of the LTV/CAC performance indicator used across marketing and business analytics, particularly in SaaS businesses. Understanding lifetime value (LTV) of customers, and how it may vary by customer segmentations and marketing channels, is important for marketing groups to guide optimization decisions and maximize marketing’s return on investment. LTV/CAC is often used to help guide major allocations of spending (e.g. shifting paid social dollars to paid search dollars) as well as areas of focus for marketing teams (e.g. improving email copy vs. updating visual content for paid social ads).
 
 #### Steps to be executed by the student (max 6)
-
-*Each bulleted instruction is a complete sentence that describes a specific task.*
-
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Calculate each customer's first purchase date. Think closely about how to define customer and why
+- Calculate each customer's age
+- Calculate total customer spend
+- Calculate LTV assuming each customer has a lifetime of a year. Duplicate the field
+- Build a student vs. non-student filter
+- Build a visualization using the student filter, landing page type, and/or marketing origin with median and average LTV values
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+Where should marketing continue to invest (time or money)? Cut investment? Why?
 
 #### End goal:
 
@@ -72,6 +71,6 @@
 *This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
 
 #### End goal:
+![ex-1-visualization](https://user-images.githubusercontent.com/122172327/211172106-b21b4727-f23b-43ca-857c-21e326acb336.png)
 
-*Add an image of the final visualization here.*
 
