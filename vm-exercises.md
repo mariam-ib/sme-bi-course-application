@@ -51,23 +51,25 @@ Where should marketing continue to invest (time or money)? Cut investment? Why?
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Calculate and analyze churn rates to understand where marketing should spend time employing churn-prevention tactics
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Acquisition is half of marketing’s typical responsibilities; customer retention is the other. Retention is typically considered easy if the product is of sufficient quality – typical churn rates for good products are single digits. Considering marketing tactics for churn prevention are typically low cost (email, customer discounts, etc.) and can have significant, positive impact on LTV, identifying pockets of customers that churn at high rates is important.
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
-
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Calculate each customer's first purchase date. Think closely about how to define customer and why
+- Calculate each customer's most reccent purchase date
+- Assume a customer has churned if they have not purchased for over 90 days. Identify which customers are within the scope of churn and filter to just those customers
+- Build a flag for each customer that is equal to 1 if the customer (within scope) has churned and 0 if the customer has not
+- Calculate churn rate
+- Build a visualization using the provided customer demographics to identify which customers marketing should target with churn prevention tactics
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+Where should marketing focus churn prevention tactics? why?
 
 #### End goal:
+![image](https://user-images.githubusercontent.com/122172327/211172530-b765f5dc-4a18-4a4f-a7fe-e128711bd3b4.png)
+
 
