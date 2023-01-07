@@ -71,6 +71,6 @@ Where should marketing continue to invest (time or money)? Cut investment? Why?
 *This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
 
 #### End goal:
-![ex-1-visualization](https://user-images.githubusercontent.com/122172327/211172106-b21b4727-f23b-43ca-857c-21e326acb336.png)
+![image](https://user-images.githubusercontent.com/122172327/211172143-9accdb37-0c1b-4be2-811d-dd862f5e9607.png)
 
 
