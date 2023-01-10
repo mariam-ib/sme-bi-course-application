@@ -22,7 +22,7 @@ Calculate and analyze LTV to understand how marketing investment should change t
 
 #### Context
 
-LTV is half of the LTV/CAC performance indicator used across marketing and business analytics, particularly in SaaS businesses. Understanding lifetime value (LTV) of customers, and how it may vary by customer segmentations and marketing channels, is important for marketing groups to guide optimization decisions and maximize marketing’s return on investment. LTV/CAC is often used to help guide major allocations of spending (e.g. shifting paid social dollars to paid search dollars) as well as areas of focus for marketing teams (e.g. improving email copy vs. updating visual content for paid social ads).
+LTV is half of the LTV/CAC performance indicator used across marketing and business analytics, particularly in SaaS businesses. Understanding lifetime value (LTV) of customers, and how it may vary by customer segmentations and marketing channels is important for marketing groups to guide optimization decisions and maximize marketing’s return on investment. LTV/CAC is often used to help guide major allocations of spending (e.g. shifting paid social dollars to paid search dollars) as well as areas of focus for marketing teams (e.g. improving email copy vs. updating visual content for paid social ads).
 
 #### Steps to be executed by the student (max 6)
 - Calculate each customer's first purchase date. Think closely about how to define customer and why
